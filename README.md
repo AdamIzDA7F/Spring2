@@ -1,5 +1,5 @@
 
 <link rel="stylesheet" href="styles.css">
 
-#Gittin Some Practice
-##Adam McDermott
+<h1>Gittin Some Practice</h1>
+Adam McDermott

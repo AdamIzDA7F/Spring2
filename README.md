@@ -1,7 +1,7 @@
 
 <body>
 <head>
-<link rel="stylesheet" href="https://AdamIzDA7F.github.io/styles.css">
+<link rel="stylesheet" href="https://AdamIzDA7F.github/styles.css">
 </head>
 
 <h1>Gitting Some Practice</h1>

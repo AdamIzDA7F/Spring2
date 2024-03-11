@@ -1,4 +1,3 @@
-<!DOCTYPE README.md>
 
 <body>
 <head>
